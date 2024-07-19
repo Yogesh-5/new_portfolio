@@ -775,4 +775,58 @@ p.pp {
 
 
 
+@media (max-width: 768px) {
+  .container {
+    padding: 2em;}
+
+    .icon {
+      margin-right: 10em;
+      font-size: 1em;
+  }
+  
+  .h1 {
+    font-size: 2.5em;
+    margin-top: 1.2em;
+}
+
+.btn19 {
+  left: 616px;
+  top: 253px;
+}
+
+.first {
+  margin-left: 2em;
+  font-size: 1.5em;
+  margin-bottom: 1em;
+}
+.btn21 {
+  top: 1165px;
+  left: 181px;
+}
+
+.btn20 {
+  top: 772px;
+  left: 278px;
+}
+
+.contact-class {
+  margin-left: 2.7em;
+}
+
+#second {
+  margin-left: 3.5em;
+  font-size: .9em;
+  width: 330px;
+  line-height: 20px;
+}
+
+.content {
+  width: 373px;}
+
+  .btn22 {
+    top: 1418px;
+    left: 187px;
+}
+
+}
 
