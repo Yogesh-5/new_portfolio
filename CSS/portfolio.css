@@ -484,7 +484,7 @@ span.p-t {
 
 
 
-@media screen and (max-width: 360px){
+@media screen and (max-width: 358px){
 
   .container {
     padding: 1em;}
@@ -493,11 +493,11 @@ span.p-t {
 
     .btn {
       color: white;
-      background: black;
-      height: 20px;
-      width: 45px;
-      border-radius: 10px;
-      font-size: .5em;
+        background: black;
+        height: 17px;
+        width: 36px;
+        border-radius: 10px;
+        font-size: .4em;
   }
 
     .icon{
@@ -740,7 +740,7 @@ span.p-t {
  
  .btn21 {
   width: 16px;
-  height: 21px;
+  height: 19px;
   background: url(../images/plus1.png);
   background-size: 100% 100%;
   cursor: pointer;
@@ -755,8 +755,8 @@ span.p-t {
 }
 
 .btn22{
-  width: 16px;
-  height: 21px;
+  width: 15px;
+  height: 18px;
   background: url(../images/plus1.png);
   background-size: 100% 100%;
   cursor: pointer;
