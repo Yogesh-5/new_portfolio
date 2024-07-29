@@ -484,16 +484,18 @@ span.p-t {
 
 
 
-@media screen and (max-width: 480px){
+@media screen and (max-width: 360px){
 
   .container {
-    padding: 2em;}
+    padding: 1em;}
+
+
 
     .btn {
       color: white;
       background: black;
-      height: 23px;
-      width: 46px;
+      height: 20px;
+      width: 45px;
       border-radius: 10px;
       font-size: .5em;
   }
@@ -504,8 +506,10 @@ span.p-t {
       /* margin-right: 35em; */
       margin-left: 2em;
       font-family: calibri;
-      font-size: .7em;
-      margin-right: 8em;
+      font-size: 0.6em;
+      margin-right: 1em;
+      width: 8em;
+      padding-top: 3px;
     }
 
     .header {
@@ -527,7 +531,7 @@ span.p-t {
   .middle-part {
     display: flex;
     margin-bottom: -14em;
-    margin-top: 5em;
+    margin-top: 4em;
 
 
 
@@ -560,7 +564,7 @@ span.p-t {
 }
 
 .h1 {
-  font-size: 1.5em;
+  font-size: 1.4em;
   margin-bottom: 0.2em;
   font-family: calibri;
 }
@@ -573,8 +577,8 @@ span.p-t {
   background-size: 100% 100%;
   cursor: pointer;
   position: absolute;
-  top: 152px;
-  left: 324px;
+  top: 118px;
+  left: 299px;
   border: none;
 }
  
@@ -590,11 +594,12 @@ span.p-t {
 
 .first {
   /* margin-left: 3em; */
-  margin-left: 1.2em;
-  margin-bottom: 0.5em;
-  font-size: 1em;
-  font-family: calibri;
-  padding-left: 0px;
+        /* margin-left: 3em; */
+        margin-left: 1.2em;
+        margin-bottom: 0.5em;
+        font-size: .9em;
+        font-family: calibri;
+        padding-left: 0px;
 }
 
 
@@ -602,7 +607,7 @@ span.p-t {
 #second {
   margin-left: 1.9em;
   font-family: calibri;
-  width: 190px;
+  width: 158px;
   line-height: 13px;
   color: #3b444b;
   display: none;
@@ -610,14 +615,14 @@ span.p-t {
 }
 
 .btn20 {
-  width: 20px;
-  height: 22px;
+  width: 15px;
+  height: 20px;
   background: url(../images/plus1.png);
   background-size: 100% 100%;
   cursor: pointer;
   position: absolute;
   top: 357px;
-  left: 182px;
+  left: 151px;
   border: none;
 }
 
@@ -724,7 +729,7 @@ span.p-t {
 .contact-class {
   margin-left: 2em;
         margin-bottom: 0.5em;
-        font-size: .6em;
+        font-size: .5em;
         color: #3b444b;
         font-family: calibri;}
 
@@ -734,14 +739,14 @@ span.p-t {
  
  
  .btn21 {
-  width: 22px;
-  height: 26px;
+  width: 16px;
+  height: 21px;
   background: url(../images/plus1.png);
   background-size: 100% 100%;
   cursor: pointer;
   position: absolute;
-  top: 644px;
-  left: 118px;
+  top: 645px;
+  left: 93px;
   border: none;
 }
 
@@ -750,21 +755,34 @@ span.p-t {
 }
 
 .btn22{
-width: 20px;
-height: 25px;
-background: url(../images/plus1.png);
-background-size: 100% 100%;
-cursor: pointer;
-position: absolute;
-top: 783px;
-left: 123px;
-border: none;}
+  width: 16px;
+  height: 21px;
+  background: url(../images/plus1.png);
+  background-size: 100% 100%;
+  cursor: pointer;
+  position: absolute;
+  top: 784px;
+  left: 99px;
+  border: none;}
 
 
 p.pp {
   margin-top: 1.5em;
 }
 
+.Third-part {
+  display: flex;
+  margin-top: 2em;
+}
+
+#third{
+  margin-left: .2em;
+}
+
+#four{
+  margin-left: .2em;
+}
+
 }
 
 
@@ -774,7 +792,7 @@ p.pp {
 
 
 
-
+/* 
 @media (max-width: 768px) {
   .container {
     padding: 2em;}
@@ -829,4 +847,4 @@ p.pp {
 }
 
 }
-
+ */
