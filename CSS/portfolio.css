@@ -493,11 +493,12 @@ span.p-t {
 
     .btn {
       color: white;
-        background: black;
-        height: 17px;
-        width: 36px;
-        border-radius: 10px;
-        font-size: .4em;
+      background: black;
+      height: 15px;
+      width: 34px;
+      border-radius: 10px;
+      font-size: .3em;
+  
   }
 
     .icon{
