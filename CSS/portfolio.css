@@ -511,6 +511,312 @@ span.p-t {
       margin-right: 1em;
       width: 7em;
       padding-top: 3px;
+      margin-right: 7em;
+    }
+
+    .header {
+      display: flex;
+      padding-top: 1em;
+      align-items: center;
+      margin-bottom: 2em;
+    }
+
+    .header-class {
+      color: black;
+      font-weight: bold;
+      text-decoration: none;
+      font-family: calibri;
+      /* display: none; */
+      font-size: .5em;
+  }
+
+  .middle-part {
+    display: flex;
+    margin-bottom: -14em;
+    margin-top: 4em;
+
+
+
+  }
+
+
+
+  .image-container {
+    /* border: 1px solid black; */
+    width: 400px;
+    padding-top: 0em;
+    /* border: 1px solid black; */
+}
+
+
+.image {
+  height: 114px;
+  width: 109px;
+  margin-left: 21px;
+  border: 1px;
+  border-radius: 17px;
+  overflow: hidden;
+}
+
+.content-container {
+  margin-left: 3.5em;
+  padding-right: 0em;
+  width: 690px;
+  height: 425px;
+}
+
+.h1 {
+  font-size: 1.4em;
+  margin-bottom: 0.2em;
+  font-family: calibri;
+}
+
+
+.btn19 {
+  width: 23px;
+  height: 24px;
+  background: url(../images/hand.png);
+  background-size: 100% 100%;
+  cursor: pointer;
+  position: absolute;
+  top: 119px;
+  left: 304px;
+  border: none;
+}
+ 
+
+.p {
+  text-align: start;
+  font-size: .5em;
+  color: #3b444b;
+  font-family: calibri;
+  line-height: 11px;
+  padding-top: .5em;
+}
+
+.first {
+  /* margin-left: 3em; */
+        /* margin-left: 3em; */
+        margin-left: 1.2em;
+        margin-bottom: 0.5em;
+        font-size: .9em;
+        font-family: calibri;
+        padding-left: 0px;
+}
+
+
+
+#second {
+  margin-left: 1.9em;
+  font-family: calibri;
+  width: 158px;
+  line-height: 13px;
+  color: #3b444b;
+  display: none;
+  font-size: .6em;
+}
+
+.btn20 {
+  width: 15px;
+  height: 20px;
+  background: url(../images/plus1.png);
+  background-size: 100% 100%;
+  cursor: pointer;
+  position: absolute;
+  top: 357px;
+  left: 162px;
+  border: none;
+}
+
+
+.content {
+  width: 219px;
+  height: 296px;
+  padding-top: 0.5em;
+  margin-right: 0px;
+  /* margin-right: 11em; */
+  /* border: 1px solid black; */
+}
+
+
+.one {
+ 
+  font-size: .5em;
+}
+
+.two {
+ 
+  font-size: .5em;
+}
+
+.three {
+ 
+  font-size: .5em;
+}
+
+.four {
+ 
+  font-size: .5em;
+}
+
+.five {
+ 
+  font-size: .5em;
+}
+
+.six {
+ 
+  font-size: .5em;
+}
+
+.seven {
+ 
+  font-size: .5em;
+}
+
+.eight {
+ 
+  font-size: .5em;
+}
+
+
+
+.nine {
+ 
+  font-size: .5em;
+}
+
+.ten {
+ 
+  font-size: .5em;
+}
+
+.eleven {
+ 
+  font-size: .5em;
+}
+
+.twelve {
+ 
+  font-size: .5em;
+}
+
+.thirteen {
+ 
+  font-size: .5em;
+}
+
+.first-btn {
+  margin-bottom: .5em;
+}
+
+.second-btn {
+  margin-bottom: .5em;
+}
+
+.third-btn {
+  margin-bottom: .5em;
+}
+
+.fourth-btn {
+  margin-bottom: .5em;
+}
+
+.content-2 {
+  padding-top: 0.5em;
+  padding-left: 0em;
+  /* padding-left: 7em; */
+}
+
+.contact-class {
+  margin-left: 2em;
+        margin-bottom: 0.5em;
+        font-size: .5em;
+        color: #3b444b;
+        font-family: calibri;}
+
+
+ 
+ 
+ 
+ 
+ .btn21 {
+  width: 16px;
+  height: 19px;
+  background: url(../images/plus1.png);
+  background-size: 100% 100%;
+  cursor: pointer;
+  position: absolute;
+  top: 645px;
+  left: 98px;
+  border: none;
+}
+
+.work {
+  margin-top: 6px;
+}
+
+.btn22{
+  width: 15px;
+  height: 18px;
+  background: url(../images/plus1.png);
+  background-size: 100% 100%;
+  cursor: pointer;
+  position: absolute;
+  top: 784px;
+  left: 100px;
+  border: none;}
+
+
+p.pp {
+  margin-top: 1.5em;
+}
+
+.Third-part {
+  display: flex;
+  margin-top: 2em;
+}
+
+#third{
+  margin-left: .2em;
+}
+
+#four{
+  margin-left: .2em;
+}
+
+}
+
+
+
+
+@media screen and (max-width: 360px){
+
+  .container {
+    padding: 1em;}
+
+
+
+    .btn {
+      color: white;
+      background: black;
+      height: 15px;
+      width: 34px;
+      border-radius: 10px;
+      font-size: .3em;
+  
+  }
+
+    .icon{
+      color: black;
+      font-weight: bold;
+      /* margin-right: 35em; */
+      margin-left: 2em;
+      font-family: calibri;
+      font-size: 0.6em;
+      margin-right: 1em;
+      width: 7em;
+      padding-top: 3px;
     }
 
     .header {
